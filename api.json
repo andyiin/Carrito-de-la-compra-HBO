@@ -1,0 +1,92 @@
+[
+    {
+        "precio": 85,
+        "id": 1,
+        "title": "Juego de tronos",
+        "thumbnailUrl": "img/juegotronos.jpg"
+    },
+    {
+        "precio": 15,
+        "id": 2,
+        "title": "La casa del dragón",
+        "thumbnailUrl": "img/casadragon.jpg"
+    },
+    {
+        "precio": 25,
+        "id": 3,
+        "title": "Embrujadas",
+        "thumbnailUrl": "img/embrujadas.jpg"
+    },
+    {
+        "precio": 20,
+        "id": 4,
+        "title": "The Last of Us",
+        "thumbnailUrl": "img/thelastofus.jpg"
+    },
+    {
+        "precio": 50,
+        "id": 5,
+        "title": "Pequeñas mentirosas",
+        "thumbnailUrl": "img/pequenasmentirosas.jpg"
+    },
+    {
+        "precio": 13,
+        "id": 6,
+        "title": "Pecado Original",
+        "thumbnailUrl": "img/pecadooriginal.jpg"
+    },
+    {
+        "precio": 35,
+        "id": 7,
+        "title": "Legacies",
+        "thumbnailUrl": "img/legacies.jpg"
+    },
+    {
+        "precio": 60,
+        "id": 8,
+        "title": "Crónicas vampíricas",
+        "thumbnailUrl": "img/cronicasvampiricas.jpg"
+    },
+    {
+        "precio": 40,
+        "id": 9,
+        "title": "El cuento de la criada",
+        "thumbnailUrl": "img/cuentocriada.jpg"
+    },
+    {
+        "precio": 22,
+        "id": 10,
+        "title": "Euphoria",
+        "thumbnailUrl": "img/euphoria.jpg"
+    },
+    {
+        "precio": 60,
+        "id": 11,
+        "title": "True Blood",
+        "thumbnailUrl": "img/trueblood.jpg"
+    },
+    {
+        "precio": 35,
+        "id": 12,
+        "title": "Gossip girl",
+        "thumbnailUrl": "img/gossipgirl.jpg"
+    },
+    {
+        "precio": 30,
+        "id": 13,
+        "title": "Rick y Morty",
+        "thumbnailUrl": "img/rickmorty.jpg"
+    },
+    {
+        "precio": 14,
+        "id": 14,
+        "title": "The White Lotus",
+        "thumbnailUrl": "img/whitelotus.jpg"
+    },
+    {
+        "precio": 65,
+        "id": 15,
+        "title": "The Winchester",
+        "thumbnailUrl": "img/winchester.jpg"
+    }
+]

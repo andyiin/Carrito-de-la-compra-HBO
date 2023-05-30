@@ -1,0 +1,56 @@
+body {
+    background: linear-gradient(90deg, #0c0011 0%, #370355 50%, #7a05a8 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    margin: 10px;
+    padding: 0;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0 0 20px;
+    text-align: center;
+}
+
+.card {
+    background: #0c0011;
+}
+
+.resto {
+    margin-top: 300px;
+}
+
+.table {
+    color: #ffffff;
+}
+
+.btn {
+    background: #7a05a8;
+    color: #ffffff;
+}
+
+.btn:hover {
+    background: #370355;
+    color: #ffffff;
+}
+
+.carritoFijo {
+    left: 0;
+	top: 0;
+    width: 100%;
+	position: fixed;
+    padding: 20px;
+    z-index: 1000;
+    background: #000000dc;
+}
