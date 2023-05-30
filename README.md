@@ -1,6 +1,8 @@
-# 4.5 Carrito de la compra
+# Carrito-de-la-compra-HBO
+Página web de un carrito de la compra inspirado en la plataforma HBO max.
 
-Aplicación del carrito de la compra. En este caso de series de HBO.
+## Instrucciones
+Para su funcionamiento debe ejecutarlo con un live server.
 
 <b> Códigos descuento: </b>
 - SERIESHBO30: Aplica el 30% al total del carrito.
