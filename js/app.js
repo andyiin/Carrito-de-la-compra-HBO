@@ -1,3 +1,6 @@
+/**
+ * @author Andrea Solís Tejada
+ */
 {
     const cards = document.querySelector('#cards');
     const items = document.querySelector('#items');
